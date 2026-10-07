@@ -11,9 +11,9 @@ repeatable troubleshooting exercises.
 
 ---
 
-## Initial Architecture
+## Planned Initial Architecture
 
-The initial environment consists of:
+The planned initial environment will consist of:
 
 - Amazon VPC
 - Public subnet
